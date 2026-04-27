@@ -1,11 +1,14 @@
 // ==UserScript==
 // @name         YouTube Subscriptions - Hide Shorts
+// @description  Remove Shorts sections from the YouTube subscriptions feed
 // @namespace    https://github.com/verylongdelay/youtube-scripts
+// @author       VeryLongDelay (https://github.com/verylongdelay)
+// @license         MIT
 // @version      1.0.0
 // @description  Remove Shorts sections from the YouTube subscriptions feed
 // @match        https://www.youtube.com/feed/subscriptions*
 // @match        https://m.youtube.com/feed/subscriptions*
-// @icon         https://raw.githubusercontent.com/verylongdelay/youtube-scripts/main/icon.png
+// @icon         https://raw.githubusercontent.com/VeryLongDelay/youtube-scripts/refs/heads/master/icon.ico
 // @run-at       document-start
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/verylongdelay/youtube-scripts/main/youtube-subs-hide-shorts.user.js

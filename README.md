@@ -15,17 +15,13 @@ Heavily inspired by [Scripts.yt](https://scripts.yt).
 - Tampermonkey
 - Violentmonkey
 
-### 2. Install the script
+### 2. Install the scripts
 
-[![Install Userscript](https://img.shields.io/badge/install-userscript-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/verylongdelay/youtube-scripts/main/youtube-logo-to-subs.user.js)
+YouTube Logo → Subscriptions
+[![Install Userscript](https://img.shields.io/badge/install-userscript-brightgreen?style=for-the-badge)](https://github.com/VeryLongDelay/youtube-scripts/raw/refs/heads/master/youtube-logo-to-subs.user.js)
 
-Open:
-
-```
-https://raw.githubusercontent.com/verylongdelay/youtube-logo-to-subs/main/youtube-logo-to-subs.user.js
-```
-
-Your userscript manager will prompt you to install it.
+Youtube Subscriptions - Hide Shorts
+[![Install Userscript](https://img.shields.io/badge/install-userscript-brightgreen?style=for-the-badge)](https://github.com/VeryLongDelay/youtube-scripts/raw/refs/heads/master/youtube-subs-hide-shorts.user.js)
 
 ---
 

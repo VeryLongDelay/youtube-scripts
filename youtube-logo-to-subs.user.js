@@ -1,12 +1,15 @@
 // ==UserScript==
 // @name         YouTube Logo → Subscriptions
-// @namespace    https://github.com/verylongdelay/youtube-logo-to-subs
+// @description  Make the top-left YouTube logo go to subscriptions
+// @namespace    https://github.com/verylongdelay/youtube-scripts
+// @author       VeryLongDelay (https://github.com/verylongdelay)
+// @license         MIT
 // @version      1.0.0
 // @description  Make the top-left YouTube logo go to subscriptions
 // @match        https://www.youtube.com/*
 // @match        https://m.youtube.com/*
 // @match        https://youtube.com/*
-// @icon         https://raw.githubusercontent.com/verylongdelay/youtube-scripts/main/icon.png
+// @icon         https://raw.githubusercontent.com/VeryLongDelay/youtube-scripts/refs/heads/master/icon.ico
 // @run-at       document-start
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/verylongdelay/youtube-scripts/main/youtube-logo-to-subs.user.js
